@@ -13,7 +13,7 @@
 
 This submission package contains the following files:
 
-1. **biodata.html** - Main biodata web page
+1. **index.html** - Main biodata web page (hosted on GitHub Pages)
 2. **report.html** - Complete assignment report (includes cover, table of contents, introduction, and documentation)
 3. **report-cover.html** - Standalone cover page
 4. **README.md** - This file with instructions
